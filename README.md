@@ -1,2 +1,3 @@
-# ecomplatform
-WEB ENG PROJECT SEM-4 using CODEIGNITOR
+# Ecommerce Platform
+WEB ENG PROJECT | BSCS 4A 
+Framework: CODEIGNITOR
