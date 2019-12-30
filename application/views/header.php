@@ -5,21 +5,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<title>
-		header
+		Bizeller
 	</title>
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assist/css/style.css ">
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assist/bootstrap/bootstrap.min.css ">
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assist/bootstrap/bootstrap.min.css ">
-	<script src="<?php echo base_url();?>assist/js/jquery-3.4.1.min.js"></script>
-	<script src="<?php echo base_url();?>assist/js/js.js"></script>
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/style.css ">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/bootstrap/bootstrap.min.css ">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/bootstrap/bootstrap.min.css ">
+	<script src="<?php echo base_url();?>assets/js/jquery-3.4.1.min.js"></script>
+	<script src="<?php echo base_url();?>assets/js/js.js"></script>
 
 </head>
 <body class="container-fluid">
-	<img src="<?php echo base_url().'image/logo.png' ?>" width=150px; height=100px; />
+<a href="<?php echo base_url();?>home">	<img src="<?php echo base_url().'image/logo.png' ?>" width=150px; height=100px; /></a>
 
  <div style="float:right;margin-top:20px;">
 
-  <form class="form-inline"  action="" >	
+  <form class="form-inline"  action="" >
     <input class="form-control mr-sm-2" type="text" placeholder="Search Item">
     <button class="btn btn-success" type="submit">Search</button>
   </form>
@@ -41,7 +41,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </li>
 
   </ul>
- 
+
 </nav>
 
 

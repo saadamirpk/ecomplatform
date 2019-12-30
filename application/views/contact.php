@@ -8,7 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 <body >
   <h1>
-contact us
+Shazaib ka contact form yahan ayga
 </h1>
 
 </body>

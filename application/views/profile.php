@@ -8,7 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 <body >
   <h1>
-profile
+muzamil yahan profile show kre ga
 </h1>
 
 </body>
