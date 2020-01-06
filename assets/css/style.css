@@ -6,3 +6,10 @@ padding: 50px;
   margin-left: 10px;
   margin-bottom: 10px;
 }
+
+.logo{
+    position: relative;
+}
+.heads{
+    background-color: #343a40;
+}

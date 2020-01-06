@@ -9,7 +9,6 @@ class Search extends CI_Controller {
 		$data['prod'] = $this->product_model->get_products();
 		$this->load->view('header');
 		$this->load->view('home',$data);
-		$this->load->view('template/footer');
 	}
 
   public function category($cat=NULL){
@@ -21,6 +20,5 @@ class Search extends CI_Controller {
 
 		$this->load->view('header');
 		$this->load->view('home',$data);
-		$this->load->view('template/footer');
   }
 }

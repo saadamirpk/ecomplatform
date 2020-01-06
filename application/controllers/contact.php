@@ -9,6 +9,6 @@ class contact extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 	  $this->load->view('contact');
-		$this->load->view('template/footer');
+	
 	}
 }

@@ -1,0 +1,19 @@
+.main-form{
+    padding-top:15px;
+}
+.middle{
+  display:block;
+  margin:auto;
+}
+
+.form-size{
+  width:400px;
+  height:auto;
+  margin-bottom:-10px;
+}
+
+input:hover{
+        color:black;
+        background: #ddd;  
+}
+
